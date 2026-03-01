@@ -249,6 +249,6 @@ sudo systemctl status wazuh-dashboard
 
 ## Author
 
-Santhoshkumar  
-SOC / Blue Team Enthusiast
+**Santhoshkumar**  
+Cybersecurity Enthusiast | Red & Blue Team Learner | SOC & Security Analyst Aspirant
 
