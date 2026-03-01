@@ -250,7 +250,7 @@ wazuh-soc-home-lab/
 ## Author
 
 **Santhoshkumar**  
-Cybersecurity Enthusiast | Blue Team Learner | SOC Analyst Aspirant
+Cybersecurity Enthusiast | Red & Blue Team Learner | SOC & Security Analyst Aspirant
 
 ---
 
