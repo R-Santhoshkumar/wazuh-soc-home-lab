@@ -13,6 +13,8 @@ This document provides step-by-step instructions to set up the **Multi-Endpoint 
 - 1 Kali Linux system (physical)
 - 1 Kali Linux Virtual Machine (inside Windows or any hypervisor)
 
+> Note: You can use Virtual Machine as well.
+
 ---
 
 ### Network Requirements
